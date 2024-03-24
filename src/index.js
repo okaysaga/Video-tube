@@ -6,7 +6,10 @@ import { DB_NAME } from "./constants.js"
 
 import userRouter from "./routes/user.routes.js";
 
-import app from "./app.js";
+import app from "./app.js"
+
+
+
 // Load environment variables from .env file
 
 
